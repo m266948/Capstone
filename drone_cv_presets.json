@@ -1,0 +1,16 @@
+{
+  "anaomoly": {
+    "clahe_clip": 1,
+    "clahe_grid": 1,
+    "canny_min": 210,
+    "canny_max": 225,
+    "gauss_blur": 1,
+    "blob_min_thresh": 186,
+    "blob_max_thresh": 10,
+    "blob_min_area": 148,
+    "edge_density": 1,
+    "use_otsu": true,
+    "enable_edge_filter": true,
+    "master_sensitivity": 0.875
+  }
+}
